@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "protopost": "github:tehZevo/protopost",
+    "ring-client-api": "^9.24.0"
+  }
+}
